@@ -1,0 +1,7 @@
+C:\Users\karotka\source\repos\ZadanieBoJaJuzNieWiem\ZadanieBoJaJuzNieWiem\bin\Debug\ZadanieBoJaJuzNieWiem.exe.config
+C:\Users\karotka\source\repos\ZadanieBoJaJuzNieWiem\ZadanieBoJaJuzNieWiem\bin\Debug\ZadanieBoJaJuzNieWiem.exe
+C:\Users\karotka\source\repos\ZadanieBoJaJuzNieWiem\ZadanieBoJaJuzNieWiem\bin\Debug\ZadanieBoJaJuzNieWiem.pdb
+C:\Users\karotka\source\repos\ZadanieBoJaJuzNieWiem\ZadanieBoJaJuzNieWiem\obj\Debug\ZadanieBoJaJuzNieWiem.csprojAssemblyReference.cache
+C:\Users\karotka\source\repos\ZadanieBoJaJuzNieWiem\ZadanieBoJaJuzNieWiem\obj\Debug\ZadanieBoJaJuzNieWiem.csproj.CoreCompileInputs.cache
+C:\Users\karotka\source\repos\ZadanieBoJaJuzNieWiem\ZadanieBoJaJuzNieWiem\obj\Debug\ZadanieBoJaJuzNieWiem.exe
+C:\Users\karotka\source\repos\ZadanieBoJaJuzNieWiem\ZadanieBoJaJuzNieWiem\obj\Debug\ZadanieBoJaJuzNieWiem.pdb
